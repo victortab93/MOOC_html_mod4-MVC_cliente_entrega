@@ -26,12 +26,12 @@ En el código proporcionado sólo está implementada la funcionalidad de listar 
 El proyecto debe clonarse en el ordenador desde el que se está trabajando:
 
 ```
-$ git clone https://github.com/ging-moocs/MOOC_html_mod6-MVC_cliente
+$ git clone https://github.com/ging-moocs/MOOC_html_mod4-MVC_cliente_entrega
 ```
 A continuación se debe acceder al directorio de trabajo y abrir el fichero index.html con el editor de la elección del alumno.
 
 ```
-$ cd MOOC_html_mod6-MVC_cliente
+$ cd MOOC_html_mod4-MVC_cliente_entrega
 ```
 
 El fichero index.html contiene el código de la aplicación. Incluye tanto el HTML de la página, como el CSS y el código JavaScript que implementa la lógica de la aplicación siguiendo el patrón MVC. Para iniciar la aplicación web basta con abrir el fichero index.html en el navegador (Chrome/Firefox). En las siguientes secciones se explica cada parte de esta lógica.
