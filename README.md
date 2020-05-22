@@ -2,7 +2,7 @@
 <img  align="right" width="150" style="float: right;" src="https://miriadax.net/miriadax-theme/images/custom/logo_miriadax_new.svg">
 
 <br/><br/><br/>
-# MVC películas
+# Módulo 4: Eventos, Objetos, Arrays, JSON, Storage API, Boolean, operadores lógicos y MVC. - Entrega P2P: MVC Cliente
 
 Versión: 22 de Mayo de 2020
 
