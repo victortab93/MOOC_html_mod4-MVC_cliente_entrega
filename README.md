@@ -16,7 +16,7 @@ Versión: 22 de Mayo de 2020
 Esta entrega se basa en el desarrollo de una aplicación web de cliente usando las príncipales tecnologías web (HTML, CSS y JS) y el patrón MVC. La aplicación consiste en una base de datos de películas, en la que se almacena el título, director y URL de la carátula de cada película. En esta base de datos se puede consultar la información de las películas, añadir películas nuevas, editar las existentes, borrarlas y reiniciar la base de datos. Estas acciones se llevan a cabo al hacer clic en los distintos botones que proporciona la aplicación web.
 
 <p align="center">
-  <img width="568" height="320"  src="https://raw.githubusercontent.com/CORE-2020/Entrega2_MVC_Cliente/master/files/enunciado.png">
+  <img width="568" height="320"  src="https://raw.githubusercontent.com/ging-moocs/MOOC_html_mod4-MVC_cliente_entrega/master/files/enunciado.png">
 </p>
 
 En el código proporcionado sólo está implementada la funcionalidad de listar las películas existentes y editar película. El alumno debe implementar las funcionalidades restantes (crear, mostrar, eliminar y reiniciar).
@@ -130,3 +130,11 @@ $ npx moocauto                 ## Pasa los tests al fichero a entregar
 
 Se puede pasar la herramienta de autocorrección tantas veces como se desee.
 
+A la hora de evaluar, el evaluador tendrá que seguir los siguientes criterios:
+
+RÚBRICA: Se puntuará el ejercicio a corregir sumando el % indicado a la nota total si la parte indicada es correcta:
+ * 20%: La funcionalidad de "Show" funciona correctamente.
+ * 20%: La funcionalidad de "New" funciona correctamente.
+ * 20%: La funcionalidad de "Create" funciona correctamente.
+ * 20%: La funcionalidad de "Delete" funciona correctamente.
+ * 20%: La funcionalidad de "Reset" funciona correctamente.
