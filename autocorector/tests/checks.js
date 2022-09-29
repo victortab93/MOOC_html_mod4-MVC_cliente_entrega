@@ -1,6 +1,6 @@
 // IMPORTS
 const path = require('path');
-const Utils = require('./testutils');
+const Utils = require('../utils/testutils');
 
 // CRITICAL ERRORS
 let error_critical = null;
