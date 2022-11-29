@@ -8,7 +8,7 @@ let error_critical = null;
 // CONSTANTS
 const T_TEST = 2 * 60; // Time between tests (seconds)
 const browser = new Browser({waitDuration: 100, silent: true});
-const path_assignment = path.resolve(path.join(__dirname, "../index.html"));
+const path_assignment = path.resolve(path.join(__dirname, "../../index.html"));
 const URL = "file://" + path_assignment.replace("%", "%25");
 
 const to = function to(promise) {
